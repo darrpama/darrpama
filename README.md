@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Mintimir @darrpama, 21 school student (w14)
+### Hi there 👋, I'm Mintimir @darrpama
+#### 21 school student (w14)
 - 🔭 I’m currently learning C++ and working with Python
 - 📫 My tg: `t.me/darrpama`
 <!--
